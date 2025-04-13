@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Nuwan+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Nuwan+Ganganath+%F0%9F%91%8B" alt="Typing SVG" /></a>
  </p>
  <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=Nuwan53&color=brightgreen" alt="watching_count" />
@@ -59,9 +59,9 @@
  
  <div align="center">
  
- ![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api?username=Nuwan53&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Nuwan53&theme=dracula&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwan53&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  	
  </a>
  </div>
