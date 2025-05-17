@@ -18,7 +18,7 @@
  - 👯 I’m looking to collaborate on your open source projects
  - 💬 Ask me about C#
  - 📫 How to reach me: Contact part
- - 😄 Pronouns: She/Her
+ - 😄 Pronouns: He
  - ⚡ Fun fact: I never thought I would become a .net programmer!
  
  <br>
